@@ -51,8 +51,6 @@ public class Factura
         this.desc = desc;
     }
     
-    
-    
     public double importe()
     {
         return precio * cantidad;
